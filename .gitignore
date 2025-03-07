@@ -1,0 +1,10 @@
+config.json
+
+*.o
+*.obj
+*.exe
+*.out
+
+.vscode/
+.idea/
+build/

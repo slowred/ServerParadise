@@ -1,0 +1,12 @@
+{
+    "database": {
+      "host": "localhost",
+      "user": "username",
+      "password": "password",
+      "dbname": "dbname"
+    },
+    "server": {
+      "port": 6512,
+      "thread_count": 4
+    }
+  }
